@@ -1,0 +1,18 @@
+/* 	sales++ jQuery Plugins
+	Plugin: validateMyForm
+	Author: Andy Shora, andy@puremodules.com
+	File: plugin.css
+	Description: This file is contains the style definitions for the jQuery plugin */
+.required-display {
+	display: none;
+	color: red;
+	padding: 0 0 0 5px;
+	margin: 0 0 0 5px;
+}
+.required-asterisk {
+	color:red;
+	padding-left:2px;
+}
+	
+
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="mar 2004" total="490">
+<item str="Microsoft Internet Explorer 6.0" cnt="294" />
+<item str="Netscape Navigator 4.0" cnt="39" />
+<item str="Openbot 3.0" cnt="38" />
+<item str="Baiduspider " cnt="21" />
+<item str="Microsoft Internet Explorer 5.5" cnt="16" />
+<item str="AppleWebKit 85.7" cnt="13" />
+<item str="Microsoft Internet Explorer 5.1" cnt="11" />
+<item str="Googlebot 2.1" cnt="11" />
+<item str="Yahoo! Slurp" cnt="7" />
+<item str="Microsoft Internet Explorer 5.0" cnt="6" />
+<item str="grub-client-1.5.3" cnt="6" />
+<item str="NaverBot-1.0 " cnt="4" />
+<item str="Openfind data gatherer, Openbot 3.0" cnt="4" />
+<item str="Netscape Navigator 5.0" cnt="3" />
+<item str="Konqueror 3.0" cnt="2" />
+<item str="TurnitinBot 2.0" cnt="2" />
+<item str="Konqueror 3.1" cnt="2" />
+<item str="contype" cnt="2" />
+<item str="grub-client-0.3.0" cnt="2" />
+<item str="grub-client-1.3.7" cnt="1" />
+<item str="grub-client-1.0.5" cnt="1" />
+<item str="HTTrack 3.0" cnt="1" />
+</month>
+<month val="apr 2004" total="737">
+<item str="Microsoft Internet Explorer 6.0" cnt="407" />
+<item str="Microsoft Internet Explorer 5.5" cnt="87" />
+<item str="Microsoft Internet Explorer 5.0" cnt="67" />
+<item str="msnbot 0.1" cnt="35" />
+<item str="Baiduspider " cnt="30" />
+<item str="Openbot 3.0" cnt="20" />
+<item str="Googlebot 2.1" cnt="19" />
+<item str="ia_archiver" cnt="15" />
+<item str="grub-client-1.5.3" cnt="11" />
+<item str="Netscape Navigator 4.0" cnt="8" />
+<item str="NaverBot-1.0 " cnt="8" />
+<item str="contype" cnt="6" />
+<item str="Ask Jeeves Teoma" cnt="4" />
+<item str="Gaisbot 3.0" cnt="3" />
+<item str="Yahoo! Slurp" cnt="2" />
+<item str="Konqueror 3.0" cnt="2" />
+<item str="grub-client-1.4.3" cnt="2" />
+<item str="Netscape Navigator 3.0" cnt="2" />
+<item str="grub-client-0.3.0" cnt="2" />
+<item str="Konqueror 3.1" cnt="1" />
+<item str="NaverBot_dloader 1.5" cnt="1" />
+<item str="grub-client-1.0.5" cnt="1" />
+<item str="Microsoft Internet Explorer 5.1" cnt="1" />
+</month>
+<month val="may 2004" total="469">
+<item str="Microsoft Internet Explorer 6.0" cnt="266" />
+<item str="Baiduspider " cnt="58" />
+<item str="Openbot 3.0" cnt="45" />
+<item str="Googlebot 2.1" cnt="21" />
+<item str="Netscape Navigator 4.0" cnt="14" />
+<item str="Microsoft Internet Explorer 5.0" cnt="13" />
+<item str="Microsoft Internet Explorer 5.2" cnt="9" />
+<item str="contype" cnt="8" />
+<item str="AppleWebKit 124" cnt="5" />
+<item str="grub-client-1.5.3" cnt="5" />
+<item str="Openfind data gatherer, Openbot 3.0" cnt="4" />
+<item str="Ask Jeeves Teoma" cnt="4" />
+<item str="Konqueror 3.1" cnt="3" />
+<item str="grub-client-0.3.0" cnt="3" />
+<item str="Microsoft Internet Explorer 5.5" cnt="3" />
+<item str="msnbot 0.1" cnt="2" />
+<item str="Konqueror 3.0" cnt="1" />
+<item str="libwww-perl 5.6" cnt="1" />
+<item str="Gecko 20031030" cnt="1" />
+</month>
+<month val="jun 2004" total="431">
+<item str="Microsoft Internet Explorer 6.0" cnt="225" />
+<item str="Googlebot 2.1" cnt="82" />
+<item str="Openbot 3.0" cnt="33" />
+<item str="Baiduspider " cnt="29" />
+<item str="Microsoft Internet Explorer 5.5" cnt="29" />
+<item str="contype" cnt="7" />
+<item str="MSNPTC 1.0" cnt="5" />
+<item str="Ask Jeeves Teoma" cnt="4" />
+<item str="msnbot 0.1" cnt="3" />
+<item str="ia_archiver" cnt="3" />
+<item str="Netscape Navigator 4.0" cnt="3" />
+<item str="Microsoft Internet Explorer 5.0" cnt="2" />
+<item str="Yahoo! Slurp" cnt="1" />
+<item str="NPBot " cnt="1" />
+<item str="grub-client-2.3" cnt="1" />
+<item str="google" cnt="1" />
+</month>
+<month val="jul 2004" total="494">
+<item str="Microsoft Internet Explorer 6.0" cnt="254" />
+<item str="Googlebot 2.1" cnt="49" />
+<item str="Openbot 3.0" cnt="36" />
+<item str="Microsoft Internet Explorer 5.5" cnt="20" />
+<item str="msnbot 0.1" cnt="18" />
+<item str="Netscape 7.1" cnt="14" />
+<item str="Ask Jeeves Teoma" cnt="14" />
+<item str="Yahoo! Slurp" cnt="12" />
+<item str="Firefox 0.9" cnt="9" />
+<item str="Microsoft Internet Explorer 5.0" cnt="8" />
+<item str="Baiduspider " cnt="8" />
+<item str="Openfind data gatherer, Openbot 3.0" cnt="8" />
+<item str="contype" cnt="7" />
+<item str="Indy Library" cnt="6" />
+<item str="Microsoft Internet Explorer 5.2" cnt="6" />
+<item str="Netscape Navigator 4.0" cnt="5" />
+<item str="Gecko 20021130" cnt="4" />
+<item str="appie 1.1" cnt="4" />
+<item str="grub-client-2.3" cnt="4" />
+<item str="Konqueror 3.1" cnt="3" />
+<item str="Konqueror 3.0" cnt="2" />
+</month>
+<month val="aug 2004" total="176">
+<item str="Microsoft Internet Explorer 6.0" cnt="95" />
+<item str="Openbot 3.0" cnt="22" />
+<item str="Baiduspider " cnt="11" />
+<item str="Microsoft Internet Explorer 5.5" cnt="7" />
+<item str="Pompos 1.3" cnt="6" />
+<item str="Microsoft Internet Explorer 5.0" cnt="5" />
+<item str="Googlebot 2.1" cnt="5" />
+<item str="Yahoo! DE Slurp" cnt="4" />
+<item str="msnbot 0.1" cnt="4" />
+<item str="grub-client-2.3" cnt="4" />
+<item str="Netscape Navigator 4.0" cnt="3" />
+<item str="WWW-Mechanize 0.7" cnt="2" />
+<item str="Yahoo! Slurp" cnt="2" />
+<item str="Konqueror 3.1" cnt="1" />
+<item str="sohu-search" cnt="1" />
+<item str="libwww-perl 5.5" cnt="1" />
+<item str="NutchCVS 0.0" cnt="1" />
+<item str="Lynx 2.8" cnt="1" />
+<item str="ia_archiver" cnt="1" />
+</month>
+<month val="sep 2004" total="482">
+<item str="Microsoft Internet Explorer 6.0" cnt="322" />
+<item str="Openbot 3.0" cnt="33" />
+<item str="Microsoft Internet Explorer 5.0" cnt="28" />
+<item str="Microsoft Internet Explorer 5.5" cnt="20" />
+<item str="contype" cnt="14" />
+<item str="Firefox 0.1" cnt="14" />
+<item str="Googlebot 2.1" cnt="13" />
+<item str="msnbot 0.3" cnt="8" />
+<item str="msnbot 0.1" cnt="5" />
+<item str="Yahoo! DE Slurp" cnt="5" />
+<item str="Netscape 7.1" cnt="3" />
+<item str="Baiduspider " cnt="3" />
+<item str="grub-client-2.3" cnt="3" />
+<item str="sohu-search" cnt="2" />
+<item str="Konqueror 3.1" cnt="2" />
+<item str="Yahoo! Slurp" cnt="2" />
+<item str="Netscape Navigator 4.0" cnt="2" />
+<item str="Konqueror 3.0" cnt="1" />
+<item str="NaverBot-1.0 " cnt="1" />
+<item str="HaoRanSoft" cnt="1" />
+</month>
+<month val="oct 2004" total="716">
+<item str="Microsoft Internet Explorer 6.0" cnt="474" />
+<item str="Microsoft Internet Explorer 5.5" cnt="83" />
+<item str="Ask Jeeves Teoma" cnt="23" />
+<item str="Googlebot 2.1" cnt="21" />
+<item str="Firefox 0.9" cnt="13" />
+<item str="Netscape 7.2" cnt="11" />
+<item str="Microsoft Internet Explorer 5.0" cnt="11" />
+<item str="Baiduspider " cnt="11" />
+<item str="Firefox 0.1" cnt="10" />
+<item str="Yahoo! DE Slurp" cnt="9" />
+<item str="msnbot 0.3" cnt="8" />
+<item str="Yahoo! Slurp" cnt="7" />
+<item str="ia_archiver" cnt="6" />
+<item str="Konqueror 3.1" cnt="6" />
+<item str="Netscape Navigator 4.0" cnt="5" />
+<item str="Netscape 7.0" cnt="4" />
+<item str="Konqueror 3.0" cnt="4" />
+<item str="grub-client-2.3" cnt="3" />
+<item str="NaverBot-1.0 " cnt="2" />
+<item str="contype" cnt="1" />
+<item str="appie 1.1" cnt="1" />
+<item str="grub-client-1.3.7" cnt="1" />
+<item str="Indy Library" cnt="1" />
+</month>
+<month val="nov 2004" total="316">
+<item str="Microsoft Internet Explorer 6.0" cnt="212" />
+<item str="msnbot 0.3" cnt="20" />
+<item str="Yahoo! Slurp" cnt="17" />
+<item str="Googlebot 2.1" cnt="11" />
+<item str="Microsoft Internet Explorer 5.0" cnt="10" />
+<item str="Microsoft Internet Explorer 5.5" cnt="10" />
+<item str="Yahoo! DE Slurp" cnt="6" />
+<item str="sohu-search" cnt="6" />
+<item str="grub-client-2.3" cnt="6" />
+<item str="Gaisbot 3.0" cnt="4" />
+<item str="Firefox 0.9" cnt="4" />
+<item str="contype" cnt="3" />
+<item str="AvantGo 5.2" cnt="3" />
+<item str="Ask Jeeves Teoma" cnt="1" />
+<item str="SpiderMan" cnt="1" />
+<item str="Konqueror 3.0" cnt="1" />
+<item str="NaverBot-1.0 " cnt="1" />
+</month>
+<month val="dec 2004" total="445">
+<item str="Microsoft Internet Explorer 6.0" cnt="192" />
+<item str="Gaisbot 3.0" cnt="77" />
+<item str="Yahoo! Slurp" cnt="43" />
+<item str="msnbot 0.3" cnt="36" />
+<item str="Googlebot 2.1" cnt="35" />
+<item str="Microsoft Internet Explorer 5.5" cnt="18" />
+<item str="Baiduspider " cnt="9" />
+<item str="Yahoo! DE Slurp" cnt="7" />
+<item str="Netscape Navigator 4.0" cnt="6" />
+<item str="contype" cnt="5" />
+<item str="Microsoft Internet Explorer 5.0" cnt="5" />
+<item str="grub-client-2.3" cnt="3" />
+<item str="Konqueror 3.1" cnt="2" />
+<item str="ia_archiver" cnt="2" />
+<item str="NutchCVS 0.0" cnt="2" />
+<item str="sohu-search" cnt="1" />
+<item str="Konqueror 3.0" cnt="1" />
+<item str="libwww-perl 5.5" cnt="1" />
+</month>
+<month val="jan 2005" total="1279">
+<item str="Microsoft Internet Explorer 6.0" cnt="879" />
+<item str="Yahoo! Slurp" cnt="92" />
+<item str="Microsoft Internet Explorer 5.0" cnt="47" />
+<item str="e-SocietyRobot" cnt="42" />
+<item str="Googlebot 2.1" cnt="40" />
+<item str="msnbot 0.3" cnt="28" />
+<item str="Ask Jeeves Teoma" cnt="23" />
+<item str="Yahoo! DE Slurp" cnt="21" />
+<item str="Netscape Navigator 4.0" cnt="19" />
+<item str="Firefox 1.0" cnt="14" />
+<item str="contype" cnt="13" />
+<item str="Baiduspider " cnt="11" />
+<item str="grub-client-2.3" cnt="10" />
+<item str="sohu-search" cnt="8" />
+<item str="Firefox 0.1" cnt="7" />
+<item str="Microsoft Internet Explorer 5.5" cnt="7" />
+<item str="Konqueror 3.1" cnt="4" />
+<item str="ia_archiver" cnt="3" />
+<item str="Konqueror 3.0" cnt="3" />
+<item str="Netscape Navigator 4.7" cnt="2" />
+<item str="Microsoft Internet Explorer 5.1" cnt="2" />
+<item str="appie 1.1" cnt="1" />
+<item str="IRLbot 1.0" cnt="1" />
+<item str="http: /www.almaden.ibm.com/cs/crawler   [bc10]" cnt="1" />
+</month>
+<month val="feb 2005" total="2254">
+<item str="Microsoft Internet Explorer 6.0" cnt="1154" />
+<item str="Yahoo! Slurp" cnt="145" />
+<item str="Googlebot 2.1" cnt="103" />
+<item str="Microsoft Internet Explorer 5.0" cnt="93" />
+<item str="msnbot 1.0" cnt="91" />
+<item str="HTTrack 3.0" cnt="90" />
+<item str="MSNPTC 1.0" cnt="90" />
+<item str="Gaisbot 3.0" cnt="84" />
+<item str="Microsoft Internet Explorer 5.5" cnt="61" />
+<item str="Yahoo! DE Slurp" cnt="50" />
+<item str="ia_archiver" cnt="47" />
+<item str="sohu-search" cnt="45" />
+<item str="LinkWalker" cnt="41" />
+<item str="Baiduspider " cnt="40" />
+<item str="Ask Jeeves Teoma" cnt="21" />
+<item str="Microsoft URL Control - 6.01.9782" cnt="14" />
+<item str="Netscape Navigator 4.0" cnt="13" />
+<item str="contype" cnt="10" />
+<item str="Konqueror 3.0" cnt="7" />
+<item str="grub-client-2.3" cnt="7" />
+<item str="Gecko 20030624" cnt="6" />
+<item str="Konqueror 3.1" cnt="6" />
+<item str="Netscape 7.0" cnt="5" />
+<item str="Microsoft Internet Explorer 5.2" cnt="5" />
+<item str="IRLbot 1.0" cnt="4" />
+</month>
+<month val="mar 2005" total="2385">
+<item str="Microsoft Internet Explorer 6.0" cnt="1555" />
+<item str="Microsoft Internet Explorer 5.0" cnt="226" />
+<item str="Yahoo! Slurp" cnt="113" />
+<item str="msnbot 1.0" cnt="74" />
+<item str="Baiduspider " cnt="48" />
+<item str="contype" cnt="47" />
+<item str="Googlebot 2.1" cnt="47" />
+<item str="LinkWalker" cnt="41" />
+<item str="Gaisbot 3.0" cnt="39" />
+<item str="Microsoft Internet Explorer 5.5" cnt="34" />
+<item str="Ask Jeeves Teoma" cnt="29" />
+<item str="Firefox 1.0" cnt="25" />
+<item str="Yahoo! DE Slurp" cnt="20" />
+<item str="Firefox 0.8" cnt="16" />
+<item str="MSNPTC 1.0" cnt="13" />
+<item str="AppleWebKit 125.5" cnt="9" />
+<item str="Spider.NET" cnt="8" />
+<item str="Netscape 7.0" cnt="7" />
+<item str="Yahoo-MMAudVid 1.0" cnt="5" />
+<item str="MVAClient" cnt="4" />
+<item str="NP 0.1" cnt="4" />
+<item str="Trend Micro tmdr 1.0-1032" cnt="3" />
+<item str="Konqueror 3.0" cnt="3" />
+<item str="Netscape Navigator 4.0" cnt="3" />
+<item str="Cerberian Drtrs Version-3.2-Build-0" cnt="2" />
+<item str="Netscape 7.2" cnt="2" />
+<item str="ia_archiver" cnt="1" />
+<item str="grub-client-2.3" cnt="1" />
+<item str="Trend Micro tmdr 1.0-1000" cnt="1" />
+<item str="Win32" cnt="1" />
+<item str="3" cnt="1" />
+<item str="Gecko 20030925" cnt="1" />
+<item str="Konqueror 3.1" cnt="1" />
+</month>
+</usagedata>

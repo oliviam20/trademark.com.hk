@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="mar 2004" total="490">
+<item str="Windows 2000" cnt="262" />
+<item str="robot-response@openfind.com.tw" cnt="42" />
+<item str="wn.zyborg@looksmart.net" cnt="33" />
+<item str="Windows ME" cnt="29" />
+<item str="Windows 98" cnt="26" />
+<item str="Macintosh" cnt="24" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="21" />
+<item str="http: /www.googlebot.com/bot.html" cnt="11" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="10" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="7" />
+<item str="NHN Corp.    82-2-3011-1954 / nhnbot@naver.com" cnt="4" />
+<item str="i686 Linux" cnt="4" />
+</month>
+<month val="apr 2004" total="737">
+<item str="Windows 2000" cnt="462" />
+<item str="Windows 98" cnt="50" />
+<item str="Windows ME" cnt="41" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="35" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="30" />
+<item str="robot-response@openfind.com.tw" cnt="20" />
+<item str="http: /www.googlebot.com/bot.html" cnt="19" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="16" />
+<item str="NHN Corp.    82-2-3011-1954 / nhnbot@naver.com" cnt="8" />
+<item str="Windows 95" cnt="5" />
+<item str="Windows NT" cnt="4" />
+<item str="i686 Linux" cnt="3" />
+<item str="robot@gais.cs.ccu.edu.tw" cnt="3" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="2" />
+<item str="compatible" cnt="2" />
+<item str="Macintosh" cnt="1" />
+</month>
+<month val="may 2004" total="469">
+<item str="Windows 2000" cnt="220" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="58" />
+<item str="Windows 98" cnt="54" />
+<item str="robot-response@openfind.com.tw" cnt="49" />
+<item str="http: /www.googlebot.com/bot.html" cnt="21" />
+<item str="Macintosh" cnt="14" />
+<item str="wn.zyborg@looksmart.net" cnt="10" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="8" />
+<item str="Windows ME" cnt="6" />
+<item str="i686 Linux" cnt="4" />
+<item str="Windows NT" cnt="2" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="2" />
+<item str="Linux i686" cnt="1" />
+</month>
+<month val="jun 2004" total="431">
+<item str="Windows 2000" cnt="163" />
+<item str="http: /www.googlebot.com/bot.html" cnt="82" />
+<item str="Windows 98" cnt="51" />
+<item str="Windows ME" cnt="40" />
+<item str="robot-response@openfind.com.tw" cnt="33" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="29" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="3" />
+<item str="Windows 95" cnt="1" />
+<item str="Windows NT" cnt="1" />
+<item str="wn-1.zyborg@looksmart.net" cnt="1" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="1" />
+<item str="http: /www.nameprotect.com/botinfo.html" cnt="1" />
+</month>
+<month val="jul 2004" total="494">
+<item str="Windows 2000" cnt="221" />
+<item str="Windows 98" cnt="64" />
+<item str="http: /www.googlebot.com/bot.html" cnt="46" />
+<item str="robot-response@openfind.com.tw" cnt="44" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="18" />
+<item str="Windows ME" cnt="17" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="12" />
+<item str="Macintosh" cnt="10" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="8" />
+<item str="i686 Linux" cnt="5" />
+<item str="www.walhello.com" cnt="4" />
+<item str="http: /www.google.com/bot.html" cnt="3" />
+<item str="Windows NT" cnt="2" />
+<item str="Windows 95" cnt="1" />
+</month>
+<month val="aug 2004" total="176">
+<item str="Windows 2000" cnt="62" />
+<item str="Windows 98" cnt="30" />
+<item str="robot-response@openfind.com.tw" cnt="22" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="11" />
+<item str="Windows ME" cnt="10" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="6" />
+<item str="http: /www.google.com/bot.html" cnt="5" />
+<item str="Macintosh" cnt="4" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="4" />
+<item str="i686 Linux" cnt="1" />
+<item str="Windows NT" cnt="1" />
+<item str="Nutch" cnt="1" />
+</month>
+<month val="sep 2004" total="482">
+<item str="Windows 2000" cnt="302" />
+<item str="Windows 98" cnt="59" />
+<item str="robot-response@openfind.com.tw" cnt="33" />
+<item str="Windows 95" cnt="22" />
+<item str="http: /www.google.com/bot.html" cnt="13" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="13" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="7" />
+<item str="Windows NT" cnt="4" />
+<item str="i686 Linux" cnt="3" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="3" />
+<item str="NHN Corp.    82-2-3011-1954 / nhnbot@naver.com" cnt="1" />
+<item str="wn.dlc@looksmart.net" cnt="1" />
+</month>
+<month val="oct 2004" total="716">
+<item str="Windows 2000" cnt="453" />
+<item str="Windows ME" cnt="72" />
+<item str="Windows NT" cnt="52" />
+<item str="http: /www.google.com/bot.html" cnt="21" />
+<item str="Windows 98" cnt="18" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="16" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="11" />
+<item str="i686 Linux" cnt="10" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="8" />
+<item str="Linux i686" cnt="8" />
+<item str="Macintosh" cnt="4" />
+<item str="wn.dlc@looksmart.net" cnt="4" />
+<item str="NHN Corp.    82-2-3011-1954 / nhnbot@naver.com" cnt="2" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="1" />
+<item str="www.walhello.com" cnt="1" />
+</month>
+<month val="nov 2004" total="316">
+<item str="Windows 2000" cnt="216" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="23" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="20" />
+<item str="Windows 98" cnt="14" />
+<item str="http: /www.google.com/bot.html" cnt="11" />
+<item str="robot@gais.cs.ccu.edu.tw" cnt="4" />
+<item str="FreeBSD" cnt="3" />
+<item str="Windows 95" cnt="3" />
+<item str="Windows NT" cnt="2" />
+<item str="NHN Corp.    82-2-3011-1954 / nhnbot@naver.com" cnt="1" />
+<item str="Windows ME" cnt="1" />
+<item str="i686 Linux" cnt="1" />
+</month>
+<month val="dec 2004" total="445">
+<item str="Windows 2000" cnt="164" />
+<item str="robot@gais.cs.ccu.edu.tw" cnt="77" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="50" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="36" />
+<item str="Windows ME" cnt="36" />
+<item str="http: /www.google.com/bot.html" cnt="35" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="9" />
+<item str="Windows 98" cnt="8" />
+<item str="Windows NT" cnt="7" />
+<item str="i686 Linux" cnt="3" />
+<item str="Nutch" cnt="2" />
+<item str="Windows 95" cnt="1" />
+</month>
+<month val="jan 2005" total="1279">
+<item str="Windows 2000" cnt="765" />
+<item str="Windows 98" cnt="122" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="113" />
+<item str="http: /www.yama.info.waseda.ac.jp/~yamana/es/" cnt="42" />
+<item str="Windows XP" cnt="41" />
+<item str="http: /www.google.com/bot.html" cnt="40" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="28" />
+<item str="Windows ME" cnt="24" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="11" />
+<item str="wn-12.zyborg@looksmart.net" cnt="9" />
+<item str="i686 Linux" cnt="7" />
+<item str="wn.dlc@looksmart.net" cnt="5" />
+<item str="Windows 95" cnt="3" />
+<item str="Macintosh" cnt="2" />
+<item str="Windows NT" cnt="1" />
+<item str="www.walhello.com" cnt="1" />
+<item str="http: /irl.cs.tamu.edu/crawler" cnt="1" />
+</month>
+<month val="feb 2005" total="2254">
+<item str="Windows 2000" cnt="1011" />
+<item str="Windows 98" cnt="236" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="195" />
+<item str="http: /www.google.com/bot.html" cnt="103" />
+<item str="Windows ME" cnt="100" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="91" />
+<item str="robot@gais.cs.ccu.edu.tw" cnt="84" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="40" />
+<item str="Windows XP" cnt="38" />
+<item str="Windows NT" cnt="14" />
+<item str="i686 Linux" cnt="13" />
+<item str="Macintosh" cnt="11" />
+<item str="Windows 95" cnt="7" />
+<item str="compatible" cnt="6" />
+<item str="http: /irl.cs.tamu.edu/crawler" cnt="4" />
+<item str="mms dash mmaudvidcrawler dash support at yahoo dash inc dot com" cnt="2" />
+<item str="wn.dlc@looksmart.net" cnt="2" />
+</month>
+<month val="mar 2005" total="2385">
+<item str="Windows 2000" cnt="1552" />
+<item str="Windows 98" cnt="180" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="133" />
+<item str="Windows ME" cnt="87" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="74" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="48" />
+<item str="http: /www.google.com/bot.html" cnt="47" />
+<item str="robot@gais.cs.ccu.edu.tw" cnt="39" />
+<item str="Macintosh" cnt="34" />
+<item str="http: /sp.ask.com/docs/about/tech_crawling.html" cnt="29" />
+<item str="Windows NT" cnt="17" />
+<item str="mms dash mmaudvidcrawler dash support at yahoo dash inc dot com" cnt="5" />
+<item str="Windows 95" cnt="5" />
+<item str="NP" cnt="4" />
+<item str="i686 Linux" cnt="4" />
+<item str="compatible" cnt="1" />
+<item str="WinHttp.WinHttpRequest.5" cnt="1" />
+</month>
+</usagedata>

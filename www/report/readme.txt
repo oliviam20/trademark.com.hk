@@ -1,0 +1,1 @@
+This directory contains monthly WebTrends report files.  Do not remove.
